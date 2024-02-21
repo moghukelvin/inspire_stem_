@@ -1,0 +1,6 @@
+print("my name is kelvin moghul")
+print("i am 18 years old")
+print("i come from kiambu county")
+print("i love playing footbal and dancing")
+print("------------------------------")
+print("****************************")
